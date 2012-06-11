@@ -1,0 +1,6 @@
+""" Add your twitter developer account credentials here """
+
+ck = "CONSUMER KEY HERE"
+cs = "CONSUMER SECRET HERE"
+at = "ACCESS TOKEN HERE"
+ats = "ACCESS TOKEN SECRET HERE"

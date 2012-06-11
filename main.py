@@ -6,6 +6,7 @@ import wsgiref.handlers
 import urllib2
 from django.utils import simplejson as json
 import tweepy
+import config
 
 class HomeHandler(webapp.RequestHandler):
     def get(self):
